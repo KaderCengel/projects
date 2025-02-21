@@ -1,0 +1,14 @@
+C:\Users\Kader\source\repos\kadercengel\sayi\bin\Debug\net8.0\sayi.exe
+C:\Users\Kader\source\repos\kadercengel\sayi\bin\Debug\net8.0\sayi.deps.json
+C:\Users\Kader\source\repos\kadercengel\sayi\bin\Debug\net8.0\sayi.runtimeconfig.json
+C:\Users\Kader\source\repos\kadercengel\sayi\bin\Debug\net8.0\sayi.dll
+C:\Users\Kader\source\repos\kadercengel\sayi\bin\Debug\net8.0\sayi.pdb
+C:\Users\Kader\source\repos\kadercengel\sayi\obj\Debug\net8.0\sayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kader\source\repos\kadercengel\sayi\obj\Debug\net8.0\sayi.AssemblyInfoInputs.cache
+C:\Users\Kader\source\repos\kadercengel\sayi\obj\Debug\net8.0\sayi.AssemblyInfo.cs
+C:\Users\Kader\source\repos\kadercengel\sayi\obj\Debug\net8.0\sayi.csproj.CoreCompileInputs.cache
+C:\Users\Kader\source\repos\kadercengel\sayi\obj\Debug\net8.0\sayi.dll
+C:\Users\Kader\source\repos\kadercengel\sayi\obj\Debug\net8.0\refint\sayi.dll
+C:\Users\Kader\source\repos\kadercengel\sayi\obj\Debug\net8.0\sayi.pdb
+C:\Users\Kader\source\repos\kadercengel\sayi\obj\Debug\net8.0\sayi.genruntimeconfig.cache
+C:\Users\Kader\source\repos\kadercengel\sayi\obj\Debug\net8.0\ref\sayi.dll

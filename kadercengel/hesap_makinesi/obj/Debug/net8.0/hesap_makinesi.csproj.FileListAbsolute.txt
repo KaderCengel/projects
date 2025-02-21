@@ -1,0 +1,14 @@
+C:\Users\Kader\source\repos\kadercengel\hesap_makinesi\bin\Debug\net8.0\hesap_makinesi.exe
+C:\Users\Kader\source\repos\kadercengel\hesap_makinesi\bin\Debug\net8.0\hesap_makinesi.deps.json
+C:\Users\Kader\source\repos\kadercengel\hesap_makinesi\bin\Debug\net8.0\hesap_makinesi.runtimeconfig.json
+C:\Users\Kader\source\repos\kadercengel\hesap_makinesi\bin\Debug\net8.0\hesap_makinesi.dll
+C:\Users\Kader\source\repos\kadercengel\hesap_makinesi\bin\Debug\net8.0\hesap_makinesi.pdb
+C:\Users\Kader\source\repos\kadercengel\hesap_makinesi\obj\Debug\net8.0\hesap_makinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kader\source\repos\kadercengel\hesap_makinesi\obj\Debug\net8.0\hesap_makinesi.AssemblyInfoInputs.cache
+C:\Users\Kader\source\repos\kadercengel\hesap_makinesi\obj\Debug\net8.0\hesap_makinesi.AssemblyInfo.cs
+C:\Users\Kader\source\repos\kadercengel\hesap_makinesi\obj\Debug\net8.0\hesap_makinesi.csproj.CoreCompileInputs.cache
+C:\Users\Kader\source\repos\kadercengel\hesap_makinesi\obj\Debug\net8.0\hesap_makinesi.dll
+C:\Users\Kader\source\repos\kadercengel\hesap_makinesi\obj\Debug\net8.0\refint\hesap_makinesi.dll
+C:\Users\Kader\source\repos\kadercengel\hesap_makinesi\obj\Debug\net8.0\hesap_makinesi.pdb
+C:\Users\Kader\source\repos\kadercengel\hesap_makinesi\obj\Debug\net8.0\hesap_makinesi.genruntimeconfig.cache
+C:\Users\Kader\source\repos\kadercengel\hesap_makinesi\obj\Debug\net8.0\ref\hesap_makinesi.dll

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kader\\source\\repos\\kadercengel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14105D48-FF0F-4594-AEAB-2415605CAFDC}|sifre\\sifre.csproj|c:\\users\\kader\\source\\repos\\kadercengel\\sifre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14105D48-FF0F-4594-AEAB-2415605CAFDC}|sifre\\sifre.csproj|solutionrelative:sifre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1994146-D84C-4819-B6CC-1C73AA1F5AC0}|uc_sayi\\uc_sayi.csproj|c:\\users\\kader\\source\\repos\\kadercengel\\uc_sayi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1994146-D84C-4819-B6CC-1C73AA1F5AC0}|uc_sayi\\uc_sayi.csproj|solutionrelative:uc_sayi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705EDC35-3A14-4F2E-B5A1-0591BA3C506B}|hesap_makinesi\\hesap_makinesi.csproj|c:\\users\\kader\\source\\repos\\kadercengel\\hesap_makinesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705EDC35-3A14-4F2E-B5A1-0591BA3C506B}|hesap_makinesi\\hesap_makinesi.csproj|solutionrelative:hesap_makinesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A3A7E3-4B7B-4F28-8E05-2D79AF16147F}|gun_ismi\\gun_ismi.csproj|c:\\users\\kader\\source\\repos\\kadercengel\\gun_ismi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A3A7E3-4B7B-4F28-8E05-2D79AF16147F}|gun_ismi\\gun_ismi.csproj|solutionrelative:gun_ismi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE5B1D2-A498-47A5-AEF6-BF145B32D145}|sayi\\sayi.csproj|c:\\users\\kader\\source\\repos\\kadercengel\\sayi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE5B1D2-A498-47A5-AEF6-BF145B32D145}|sayi\\sayi.csproj|solutionrelative:sayi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kader\\source\\repos\\kadercengel\\sifre\\Program.cs",
+              "RelativeDocumentMoniker": "sifre\\Program.cs",
+              "ToolTip": "C:\\Users\\Kader\\source\\repos\\kadercengel\\sifre\\Program.cs",
+              "RelativeToolTip": "sifre\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T20:29:12.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kader\\source\\repos\\kadercengel\\uc_sayi\\Program.cs",
+              "RelativeDocumentMoniker": "uc_sayi\\Program.cs",
+              "ToolTip": "C:\\Users\\Kader\\source\\repos\\kadercengel\\uc_sayi\\Program.cs",
+              "RelativeToolTip": "uc_sayi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:10:41.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kader\\source\\repos\\kadercengel\\hesap_makinesi\\Program.cs",
+              "RelativeDocumentMoniker": "hesap_makinesi\\Program.cs",
+              "ToolTip": "C:\\Users\\Kader\\source\\repos\\kadercengel\\hesap_makinesi\\Program.cs",
+              "RelativeToolTip": "hesap_makinesi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:57:31.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kader\\source\\repos\\kadercengel\\gun_ismi\\Program.cs",
+              "RelativeDocumentMoniker": "gun_ismi\\Program.cs",
+              "ToolTip": "C:\\Users\\Kader\\source\\repos\\kadercengel\\gun_ismi\\Program.cs",
+              "RelativeToolTip": "gun_ismi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:31:27.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kader\\source\\repos\\kadercengel\\sayi\\Program.cs",
+              "RelativeDocumentMoniker": "sayi\\Program.cs",
+              "ToolTip": "C:\\Users\\Kader\\source\\repos\\kadercengel\\sayi\\Program.cs",
+              "RelativeToolTip": "sayi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:27:10.976Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Kader\source\repos\kadercengel\sifre\bin\Debug\net8.0\sifre.exe
+C:\Users\Kader\source\repos\kadercengel\sifre\bin\Debug\net8.0\sifre.deps.json
+C:\Users\Kader\source\repos\kadercengel\sifre\bin\Debug\net8.0\sifre.runtimeconfig.json
+C:\Users\Kader\source\repos\kadercengel\sifre\bin\Debug\net8.0\sifre.dll
+C:\Users\Kader\source\repos\kadercengel\sifre\bin\Debug\net8.0\sifre.pdb
+C:\Users\Kader\source\repos\kadercengel\sifre\obj\Debug\net8.0\sifre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kader\source\repos\kadercengel\sifre\obj\Debug\net8.0\sifre.AssemblyInfoInputs.cache
+C:\Users\Kader\source\repos\kadercengel\sifre\obj\Debug\net8.0\sifre.AssemblyInfo.cs
+C:\Users\Kader\source\repos\kadercengel\sifre\obj\Debug\net8.0\sifre.csproj.CoreCompileInputs.cache
+C:\Users\Kader\source\repos\kadercengel\sifre\obj\Debug\net8.0\sifre.dll
+C:\Users\Kader\source\repos\kadercengel\sifre\obj\Debug\net8.0\refint\sifre.dll
+C:\Users\Kader\source\repos\kadercengel\sifre\obj\Debug\net8.0\sifre.pdb
+C:\Users\Kader\source\repos\kadercengel\sifre\obj\Debug\net8.0\sifre.genruntimeconfig.cache
+C:\Users\Kader\source\repos\kadercengel\sifre\obj\Debug\net8.0\ref\sifre.dll

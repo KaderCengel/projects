@@ -1,0 +1,14 @@
+C:\Users\Kader\source\repos\kadercengel\gun_ismi\bin\Debug\net8.0\gun_ismi.exe
+C:\Users\Kader\source\repos\kadercengel\gun_ismi\bin\Debug\net8.0\gun_ismi.deps.json
+C:\Users\Kader\source\repos\kadercengel\gun_ismi\bin\Debug\net8.0\gun_ismi.runtimeconfig.json
+C:\Users\Kader\source\repos\kadercengel\gun_ismi\bin\Debug\net8.0\gun_ismi.dll
+C:\Users\Kader\source\repos\kadercengel\gun_ismi\bin\Debug\net8.0\gun_ismi.pdb
+C:\Users\Kader\source\repos\kadercengel\gun_ismi\obj\Debug\net8.0\gun_ismi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kader\source\repos\kadercengel\gun_ismi\obj\Debug\net8.0\gun_ismi.AssemblyInfoInputs.cache
+C:\Users\Kader\source\repos\kadercengel\gun_ismi\obj\Debug\net8.0\gun_ismi.AssemblyInfo.cs
+C:\Users\Kader\source\repos\kadercengel\gun_ismi\obj\Debug\net8.0\gun_ismi.csproj.CoreCompileInputs.cache
+C:\Users\Kader\source\repos\kadercengel\gun_ismi\obj\Debug\net8.0\gun_ismi.dll
+C:\Users\Kader\source\repos\kadercengel\gun_ismi\obj\Debug\net8.0\refint\gun_ismi.dll
+C:\Users\Kader\source\repos\kadercengel\gun_ismi\obj\Debug\net8.0\gun_ismi.pdb
+C:\Users\Kader\source\repos\kadercengel\gun_ismi\obj\Debug\net8.0\gun_ismi.genruntimeconfig.cache
+C:\Users\Kader\source\repos\kadercengel\gun_ismi\obj\Debug\net8.0\ref\gun_ismi.dll
