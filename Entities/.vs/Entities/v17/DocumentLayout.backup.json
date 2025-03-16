@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kader\\source\\repos\\Entities\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C239E5B-67A0-44D0-9368-3F9BC481CE23}|Presentation\\Presentation.csproj|c:\\users\\kader\\source\\repos\\entities\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C239E5B-67A0-44D0-9368-3F9BC481CE23}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7230C61-667E-4996-BA09-A7E48F371E3E}|Business\\Business.csproj|c:\\users\\kader\\source\\repos\\entities\\business\\programminglanguagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7230C61-667E-4996-BA09-A7E48F371E3E}|Business\\Business.csproj|solutionrelative:business\\programminglanguagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7230C61-667E-4996-BA09-A7E48F371E3E}|Business\\Business.csproj|c:\\users\\kader\\source\\repos\\entities\\business\\iprogramminglanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7230C61-667E-4996-BA09-A7E48F371E3E}|Business\\Business.csproj|solutionrelative:business\\iprogramminglanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7230C61-667E-4996-BA09-A7E48F371E3E}|Business\\Business.csproj|c:\\users\\kader\\source\\repos\\entities\\business\\technologymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7230C61-667E-4996-BA09-A7E48F371E3E}|Business\\Business.csproj|solutionrelative:business\\technologymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7230C61-667E-4996-BA09-A7E48F371E3E}|Business\\Business.csproj|c:\\users\\kader\\source\\repos\\entities\\business\\itechnologyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7230C61-667E-4996-BA09-A7E48F371E3E}|Business\\Business.csproj|solutionrelative:business\\itechnologyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9E83D6-33FD-438E-88FA-A8541724603D}|DataAccess\\DataAccess.csproj|c:\\users\\kader\\source\\repos\\entities\\dataaccess\\technologyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9E83D6-33FD-438E-88FA-A8541724603D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\technologyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9E83D6-33FD-438E-88FA-A8541724603D}|DataAccess\\DataAccess.csproj|c:\\users\\kader\\source\\repos\\entities\\dataaccess\\programminglanguagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD9E83D6-33FD-438E-88FA-A8541724603D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\programminglanguagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E81C9F6-D03D-4E70-A11C-F1347E13FA7D}|Core\\Core.csproj|c:\\users\\kader\\source\\repos\\entities\\core\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E81C9F6-D03D-4E70-A11C-F1347E13FA7D}|Core\\Core.csproj|solutionrelative:core\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6781B719-EF63-41E1-B206-C94CD7F5DECF}|Entities\\Entities.csproj|c:\\users\\kader\\source\\repos\\entities\\entities\\programminglanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6781B719-EF63-41E1-B206-C94CD7F5DECF}|Entities\\Entities.csproj|solutionrelative:entities\\programminglanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6781B719-EF63-41E1-B206-C94CD7F5DECF}|Entities\\Entities.csproj|c:\\users\\kader\\source\\repos\\entities\\entities\\technology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6781B719-EF63-41E1-B206-C94CD7F5DECF}|Entities\\Entities.csproj|solutionrelative:entities\\technology.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kader\\source\\repos\\Entities\\Entities\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kader\\source\\repos\\Entities\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\Kader\\source\\repos\\Entities\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:28:44.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITechnologyService.cs",
+              "DocumentMoniker": "C:\\Users\\Kader\\source\\repos\\Entities\\Business\\ITechnologyService.cs",
+              "RelativeDocumentMoniker": "Business\\ITechnologyService.cs",
+              "ToolTip": "C:\\Users\\Kader\\source\\repos\\Entities\\Business\\ITechnologyService.cs",
+              "RelativeToolTip": "Business\\ITechnologyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:14:48.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProgrammingLanguageManager.cs",
+              "DocumentMoniker": "C:\\Users\\Kader\\source\\repos\\Entities\\Business\\ProgrammingLanguageManager.cs",
+              "RelativeDocumentMoniker": "Business\\ProgrammingLanguageManager.cs",
+              "ToolTip": "C:\\Users\\Kader\\source\\repos\\Entities\\Business\\ProgrammingLanguageManager.cs",
+              "RelativeToolTip": "Business\\ProgrammingLanguageManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:38:52.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TechnologyManager.cs",
+              "DocumentMoniker": "C:\\Users\\Kader\\source\\repos\\Entities\\Business\\TechnologyManager.cs",
+              "RelativeDocumentMoniker": "Business\\TechnologyManager.cs",
+              "ToolTip": "C:\\Users\\Kader\\source\\repos\\Entities\\Business\\TechnologyManager.cs",
+              "RelativeToolTip": "Business\\TechnologyManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:38:52.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TechnologyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kader\\source\\repos\\Entities\\DataAccess\\TechnologyRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\TechnologyRepository.cs",
+              "ToolTip": "C:\\Users\\Kader\\source\\repos\\Entities\\DataAccess\\TechnologyRepository.cs",
+              "RelativeToolTip": "DataAccess\\TechnologyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:38:52.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProgrammingLanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\Kader\\source\\repos\\Entities\\Business\\IProgrammingLanguageService.cs",
+              "RelativeDocumentMoniker": "Business\\IProgrammingLanguageService.cs",
+              "ToolTip": "C:\\Users\\Kader\\source\\repos\\Entities\\Business\\IProgrammingLanguageService.cs",
+              "RelativeToolTip": "Business\\IProgrammingLanguageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:11:26.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProgrammingLanguageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kader\\source\\repos\\Entities\\DataAccess\\ProgrammingLanguageRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ProgrammingLanguageRepository.cs",
+              "ToolTip": "C:\\Users\\Kader\\source\\repos\\Entities\\DataAccess\\ProgrammingLanguageRepository.cs",
+              "RelativeToolTip": "DataAccess\\ProgrammingLanguageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:03:51.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kader\\source\\repos\\Entities\\Core\\IRepository.cs",
+              "RelativeDocumentMoniker": "Core\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Kader\\source\\repos\\Entities\\Core\\IRepository.cs",
+              "RelativeToolTip": "Core\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:16:21.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProgrammingLanguage.cs",
+              "DocumentMoniker": "C:\\Users\\Kader\\source\\repos\\Entities\\Entities\\ProgrammingLanguage.cs",
+              "RelativeDocumentMoniker": "Entities\\ProgrammingLanguage.cs",
+              "ToolTip": "C:\\Users\\Kader\\source\\repos\\Entities\\Entities\\ProgrammingLanguage.cs",
+              "RelativeToolTip": "Entities\\ProgrammingLanguage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:38:51.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Technology.cs",
+              "DocumentMoniker": "C:\\Users\\Kader\\source\\repos\\Entities\\Entities\\Technology.cs",
+              "RelativeDocumentMoniker": "Entities\\Technology.cs",
+              "ToolTip": "C:\\Users\\Kader\\source\\repos\\Entities\\Entities\\Technology.cs",
+              "RelativeToolTip": "Entities\\Technology.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:38:52.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Kader\\source\\repos\\Entities\\Entities\\Class1.cs",
+              "RelativeDocumentMoniker": "Entities\\Class1.cs",
+              "ToolTip": "C:\\Users\\Kader\\source\\repos\\Entities\\Entities\\Class1.cs",
+              "RelativeToolTip": "Entities\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T09:31:27.802Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
